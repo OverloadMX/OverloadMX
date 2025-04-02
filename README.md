@@ -1,4 +1,4 @@
-# Olá, eu sou Max Santos! 👋
+# Olá, eu sou Max! 👋
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. Aqui você encontrará meus projetos, experimentos e contribuições.
 
