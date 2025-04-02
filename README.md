@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias com as quais tenho afinidade:
 
 Aqui estão algumas das minhas contribuições recentes no GitHub:
 
-- [**Contribuições Open Source**](https://github.com/OverloadMX/contribuicoes-open-source): Minhas contribuições para projetos open source.
+- [**Contribuições Open Source**](https://github.com/OverloadMX/dio-lab-open-source): Minhas contribuições para projetos open source.
 
 Explore mais no meu perfil para ver outros projetos e colaborações! 🚀
 
