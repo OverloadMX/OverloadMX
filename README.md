@@ -31,12 +31,13 @@ Aqui estão algumas das tecnologias com as quais tenho afinidade:
 
 Aqui estão algumas das minhas contribuições recentes no GitHub:
 
-- [**Contribuições Open Source**](https://github.com/OverloadMX/dio-lab-open-source)
+- [**DIO LAB open source**](https://github.com/OverloadMX/dio-lab-open-source)
 
 Explore mais no meu perfil para ver outros projetos e colaborações! 🚀
 
 ## ✨ Projetos em Destaque
-🚧 Projetos em desenvolvimento... Em breve novidades! 
+🚧 Projetos em desenvolvimento...
+Kindle-Dashboard (Docker version)
 
 ## 📫 Vamos nos conectar!
 <p align="left"> <a href="https://www.github.com/OverloadMX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/maxwellotaviosantos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
