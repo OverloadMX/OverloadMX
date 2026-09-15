@@ -88,8 +88,8 @@ Algumas das tecnologias com as quais tenho afinidade:
   - Colaboração com a comunidade de desenvolvedores
 
 - **[Kindle-Dashboard](https://github.com/OverloadMX/kindle-dashboard)** 🐳
-  - Dashboard para gerenciamento de Kindle em versão Docker
-  - Facilita a automação e monitoramento de bibliotecas Kindle
+  - Dashboard para exibição de relógio, previsão do tempo, serviços de homelab em um Kindle inutilizado ou velho com jailbreak (serviço em versão Docker)
+  - Facilita a exibição de informações ou status de automações
   - Em desenvolvimento com melhorias contínuas
 
 ### 📚 Outros Projetos
@@ -117,14 +117,11 @@ Estou aberto a conversas, colaborações e oportunidades de trabalho. Conecte-se
   <a href="https://www.github.com/OverloadMX" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/maxwellotaviosantos" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seu-email@example.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/seu-usuario" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
